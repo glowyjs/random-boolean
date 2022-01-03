@@ -1,0 +1,35 @@
+{
+  "name": "glowy-random-boolean",
+  "version": "1.0.0",
+  "description": "Generate a random boolean",
+  "license": "MIT",
+  "repository": "glowyjs/random-boolean",
+  "author": {
+    "name": "Sergey Romanenko",
+    "email": "awilum@msn.com",
+    "url": "https://github.com/Awilum"
+  },
+  "type": "module",
+	"exports": "./index.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "glowyjs",
+    "glowy"
+    "random",
+    "bool",
+    "boolean",
+    "true",
+    "false"
+  ],
+}
