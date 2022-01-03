@@ -1,17 +1,17 @@
-# glowy-random-boolean
+# random-boolean
 
 > Generate a random boolean
 
 ## Install
 
 ```
-$ npm install --save glowy-random-boolean
+$ npm install --save @glowyjs/random-boolean
 ```
 
 ## Usage
 
 ```js
-const randomBoolean = require('glowy-random-boolean');
+const randomBoolean = require('@glowyjs/random-boolean');
 
 randomBoolean();
 //=> true

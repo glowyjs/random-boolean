@@ -1,5 +1,5 @@
 const randomBoolean = require('./index.js');
 
-test('bool', () => {
+test('randomBoolean return type to be boolean', () => {
   expect(typeof randomBoolean()).toBe('boolean');
 });
