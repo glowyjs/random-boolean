@@ -29,5 +29,5 @@ npm run test
 ```
 
 ## License
-[The MIT License (MIT)](https://github.com/glowyphp/registry/blob/master/LICENSE.txt)
+[The MIT License (MIT)](https://github.com/glowyjs/random-boolean/blob/master/LICENSE.txt)
 Copyright (c) [Sergey Romanenko](https://github.com/Awilum)
