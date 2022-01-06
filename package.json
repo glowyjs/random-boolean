@@ -1,6 +1,6 @@
 {
   "name": "@glowyjs/random-boolean",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random Boolean package provides functionality to generate a random boolean value.",
   "license": "MIT",
   "repository": "glowyjs/random-boolean",
